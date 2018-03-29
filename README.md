@@ -1,4 +1,4 @@
-# UDL Flood Denial of Service-Attack
+# UDP Flood Denial of Service-Attack
  
 Usage:
 
