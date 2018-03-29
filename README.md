@@ -1,6 +1,6 @@
-UDL Flood Denial of Service
+# UDL Flood Denial of Service-Attack
  
-$ usage
+Usage:
 
 $ git clone https://github.com/R00TD4nZ/UDPdos.git
 
